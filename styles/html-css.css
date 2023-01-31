@@ -18,13 +18,13 @@ header img {
 }
 
 main {
+    background-color: rgb(122, 74, 218);
+    padding: 32px;
+    margin: 32px auto;
+    width: 700px;
+    border-radius: 8px;
+    color: rgb(248, 241, 255);
     text-align: left;
-    width: 800px;
-    margin: 3px auto 3px auto;
-    padding: 10px;
-    background-color: rgb(112, 59, 212);
-    color: rgb(253, 228, 255);
-    border-radius: 5px;
 }
 
 span {
