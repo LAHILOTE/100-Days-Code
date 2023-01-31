@@ -10,8 +10,12 @@ h1 {
 
 header {
     text-align: center;
+    padding: 32px;
 }
 
+header img {
+    width: 300px;
+}
 
 main {
     text-align: left;
@@ -45,9 +49,4 @@ button {
 button:hover {
     background-color: rgb(253, 123, 0);
     cursor: pointer;
-}
-
-img {
-    width: 150px;
-    margin-bottom: 20px;
 }
